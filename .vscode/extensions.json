@@ -9,6 +9,7 @@
     "esbenp.prettier-vscode",
     "GitHub.copilot",
     "GitHub.copilot-chat",
+    "htmlhint.vscode-htmlhint",
     "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
     "vivaxy.vscode-conventional-commits"
